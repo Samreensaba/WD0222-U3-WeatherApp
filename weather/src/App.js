@@ -1,7 +1,5 @@
 
 import "bootstrap/dist/css/bootstrap.min.css"
-import Homepage from "./components/Homepage";
-import MyNavbar from './components/MyNavbar';
 import {useState} from 'react'
 
 const api={
